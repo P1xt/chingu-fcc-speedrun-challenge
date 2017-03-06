@@ -20,6 +20,12 @@ Integrate all of the FCC Projects you created in Phase 1 into one comprehensive 
 
 **Time limit:** one week
 
+**Deadline to complete both Phases: **
+
+[Countdown Clock](https://countingdownto.com/countdown/chingu-fcc-speedrun-challenge-countdown-clock)
+
+
+
 ### The Rules
 
 * Pick one stack and stick to it (it'll make Phase 2 easier). Any stack is fine, but stick to just one.
