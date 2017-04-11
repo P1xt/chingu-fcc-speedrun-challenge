@@ -6,13 +6,14 @@ Fork this repository and add your code for each project to the appropriate folde
 
 You may work in pairs for phase 1 and you and your pair may share the same repository for phase 1. For phase 2, each participant should create a new repository to contain their personal Portfolio SPA.
 
+
 ### The goal (Phase 1)
 
-Complete as many of the FCC Projects as you can in a two week period.
+Complete as many of the FCC Projects as you can in a three week period.
 
 To prepare for Phase 2 you'll want to ensure that you use the same "stack" and keep to a consistent coding style across projects.
 
-**Time limit:** two weeks
+**Time limit:** three weeks
 
 ### The goal (Phase 2)
 
@@ -22,8 +23,9 @@ Integrate all of the FCC Projects you created in Phase 1 into one comprehensive 
 
 **Deadline to complete both Phases:**
 
-[Countdown Clock](https://countingdownto.com/countdown/chingu-fcc-speedrun-challenge-countdown-clock)
+Current challenge - [Countdown Clock](https://countingdownto.com/countdown/chingu-fcc-speedrun-challenge-april-may-2017-countdown-clock)    
 
+Original challenge - Completed in March 2017 - [Countdown Clock](https://countingdownto.com/countdown/chingu-fcc-speedrun-challenge-countdown-clock) 
 
 
 ### The Rules
@@ -42,7 +44,7 @@ Integrate all of the FCC Projects you created in Phase 1 into one comprehensive 
 ### Deliverables
 
 * For Phase 1, all of your code should be committed/pushed to the appropriate directories in your fork of this repository.
-* For Phase 1, you do NOT need to host the projects on a live site, merely test them locally, then commit your code.
+* For Phase 1, you do NOT need to host the projects on a live site, merely test them locally, then commit your code. You can, of course, host a demo of the project if you want to though.
 * For Phase 1, you must write a blog post for each project you complete and link to it in the projects table (in your fork of) this README file.
 * For Phase 2, you must each create a repository to hold your individual Phase 2 project, then link to that project in the portfolio/README.md file of this project.
 * For Phase 2, you must both commit your code to github, and host a live version of your project.
