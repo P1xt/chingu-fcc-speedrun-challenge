@@ -2,16 +2,16 @@
 
 ## Details
 
-Fork this repository and add your code for each project to the appropriate folder in your repository as you complete each project.
+Fork this repository and add your code for each project to the appropriate folder in your repository. As you complete each project, write a blog post about your experience (most publish their blog posts to Medium so they can be easily added to the Chingu Medium publication, but you are free to post wherever you are most comfortable).
 
 You may work in pairs for phase 1 and you and your pair may share the same repository for phase 1. For phase 2, each participant should create a new repository to contain their personal Portfolio SPA.
 
 
 ### The goal (Phase 1)
 
-Complete as many of the FCC Projects as you can in a three week period.
+Complete as many of the FCC Projects as you can in a three week period. To be considered complete: the code for the project should be committed to the appropriate folder in your fork of this repository, you should have created a blog post about your experience working on the project, and you should "check off" this project in this readme file, adding a link to your blog post.
 
-To prepare for Phase 2 you'll want to ensure that you use the same "stack" and keep to a consistent coding style across projects.
+To prepare for Phase 2 you'll want to ensure that you use the same "stack" (same backend language, same frontend framework) and keep to a consistent coding style across projects.
 
 **Time limit:** three weeks
 
@@ -23,14 +23,16 @@ Integrate all of the FCC Projects you created in Phase 1 into one comprehensive 
 
 **Deadline to complete both Phases:**
 
-Current challenge - [Countdown Clock](https://countingdownto.com/countdown/chingu-fcc-speedrun-challenge-april-may-2017-countdown-clock)    
+May Cohort Challenge - [Countdown Clock](https://countingdownto.com/countdown/chingu-fcc-speedrun-challenge-may-june-2017-11-june-2017-countdown-clock)
+
+April Cohort Challenge - [Countdown Clock](https://countingdownto.com/countdown/chingu-fcc-speedrun-challenge-april-may-2017-countdown-clock)    
 
 Original challenge - Completed in March 2017 - [Countdown Clock](https://countingdownto.com/countdown/chingu-fcc-speedrun-challenge-countdown-clock) 
 
 
 ### The Rules
 
-* Pick one stack and stick to it (it'll make Phase 2 easier). Any stack is fine, but stick to just one.
+* Pick one stack (backend language and frontend framework) and stick to it (it'll make Phase 2 easier). Any stack is fine, but stick to just one.
 * You may reuse code you previously wrote, but try to improve on your prior effort in some way.
 * You may work in pairs for Phase 1 and contribute to a shared repository for Phase 1.
 * Each individual must complete Phase 2 solo, in their own repository.
