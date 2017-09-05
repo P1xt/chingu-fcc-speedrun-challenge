@@ -23,12 +23,7 @@ Integrate all of the FCC Projects you created in Phase 1 into one comprehensive 
 
 **Deadline to complete both Phases:**
 
-May Cohort Challenge - [Countdown Clock](https://countingdownto.com/countdown/chingu-fcc-speedrun-challenge-may-june-2017-11-june-2017-countdown-clock)
-
-April Cohort Challenge - [Countdown Clock](https://countingdownto.com/countdown/chingu-fcc-speedrun-challenge-april-may-2017-countdown-clock)    
-
-Original challenge - Completed in March 2017 - [Countdown Clock](https://countingdownto.com/countdown/chingu-fcc-speedrun-challenge-countdown-clock) 
-
+One month from the day you started.
 
 ### The Rules
 
@@ -63,7 +58,9 @@ Who can make the most complete and professional looking portfolio in Phase 2?
 
 Copy this table as needed to make a separate table for each team member for recording blog posts
 
-| Complete | Blog Post |Project  |
+Start date: 
+
+| Complete Date | Blog Post |Project  |
 |----------|---------|----------|
 |      | N/A| [Comprehensive Portfolio as a Single Page App](./portfolio) |   |
 |      |  [ ]()  | [Build a Tribute Page](./frontend/tribute-page) |  |
